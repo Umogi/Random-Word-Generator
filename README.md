@@ -56,11 +56,12 @@ Running the script might produce words like:
 - `stomp`
 These outputs are random and follow the rules defined in the script.
 
-##Customization
+## Customization
 
 You can adjust the following aspects of the script to suit your preferences:
 - Valid Pairs: Modify the `valid_pairs` table to add or remove valid consonant clusters.
 - Word Length Range: Change the `math.random(3,10)` line to adjust minimum and maximum word lengths.
 - Character Distribution: Alter the `random_choice` function to change the likelihood of selecting vowels vs. consonants.
 
-##License
+## License
+This project is open-source and available under the MIT [LICENSE](LICENSE).
