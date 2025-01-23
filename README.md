@@ -50,10 +50,10 @@ This Lua script generates random words that follow basic phonetic and linguistic
 ## Example Output
 
 Running the script might produce words like:
-- `flent`
-- `brask`
-- `thinde`
-- `stomp`
+- `anuonia`
+- `uotuowaero`
+- `ieki`
+- `iedelioxi`
 These outputs are random and follow the rules defined in the script.
 
 ## Customization
