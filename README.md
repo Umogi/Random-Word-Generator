@@ -47,7 +47,7 @@ This Lua script generates random words that follow basic phonetic and linguistic
    ```
    The script will print a randomly generated word to the console.
 
-##Example Output
+## Example Output
 
 Running the script might produce words like:
 - `flent`
