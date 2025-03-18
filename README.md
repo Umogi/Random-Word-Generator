@@ -2,7 +2,7 @@
 
 This Lua script generates random words that follow basic phonetic and linguistic rules, ensuring the output sounds natural and plausible. The program considers vowel-consonant combinations, valid consonant pairs, and the overall structure of English-like words.
 
-## Features
+## Features 
 
 - **Vowel and Consonant Recognition**: Differentiates between vowels (`a, e, i, o, u`) and consonants.
 - **Valid Consonant Pairs**:
